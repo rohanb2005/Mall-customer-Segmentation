@@ -217,7 +217,7 @@ The project generates:
 
 GitHub: https://github.com/rohanb2005
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: https://www.linkedin.com/in/rohan-bhavsar-924164322/?trk=public-profile-join-page
 
 ---
 
